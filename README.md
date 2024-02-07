@@ -10,21 +10,11 @@
 - **Tools:** Git, GitHub, REST API
 - **Other Skills:** HTML5, Linux, jotai, Storybook
 
-## 🌈 Soft Skills
-
-- **Communication, Respectfulness, Collaboration Skills**
-- **Self-Organizing, Creativity, Analytical Thinking**
-
 ## 📚 About Me
 
 - **Nature Lover:** Hammock, forest, and a good horror book.
 - **Music Enthusiast:** Drums, guitar, and loud scream music.
 - **Coffee Aficionado:** Sipping coffee since my first "Hello world."
-
-## 🌐 Languages
-
-- **Polish:** Native
-- **English:** B2
 
 ## 💼 Experience
 
