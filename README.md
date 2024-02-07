@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Mateusz Majer 👋
 
 🚀 **Passionate Frontend Developer** with a focus on React and an eagerness to explore new technologies. I've already made an impact by creating websites for real companies and contributing to the intive Patronage 2023 project.
 
