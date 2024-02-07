@@ -1,6 +1,6 @@
-# Hi, I'm Mateusz Majer 👋
+# Hello there! 🖖
 
-🚀 **Passionate Frontend Developer** with a focus on React and an eagerness to explore new technologies. I've already made an impact by creating websites for real companies and contributing to the intive Patronage 2023 project.
+🚀 **Passionate Frontend Developer** with a focus on React and an eagerness to explore new technologies. I've already had opportunity to creating website for real company and be involved in an internship "intive Patronage 2023" project.
 
 ## 🛠️ Tech Stack
 
@@ -17,8 +17,8 @@
 
 ## 📚 About Me
 
-- **Nature Lover:** Hammock, forest, and a good book.
-- **Music Enthusiast:** Drums, guitar, and loud music.
+- **Nature Lover:** Hammock, forest, and a good horror book.
+- **Music Enthusiast:** Drums, guitar, and loud scream music.
 - **Coffee Aficionado:** Sipping coffee since my first "Hello world."
 
 ## 🌐 Languages
@@ -28,10 +28,10 @@
 
 ## 💼 Experience
 
-### Frontend Developer Internship
+### Frontend Developer Internship - intive Patronage 2023
 
 - **Duration:** March 2023 - June 2023
-- **Key Contribution:** Developed a budget control app using React 18, Next.js 13, and Agile Methodologies.
+- **Key Contribution:** Developed a budget control app using React 18, Nextjs 13 and Agile Methodologies, integrated with backend.
 
 ## 🔧 Key Projects
 
@@ -39,9 +39,9 @@
   - React/Next.js application for account and budget management.
   
 - **Freelancer Project - Website Administration:**
-  - Created a feature-rich React website for a service company in Poland.
+  - Created a React website for Matchmaking Office “Serduszka Dwa“, a service company in Poland.
 
 - **Gamepad Tester (Personal Project):**
   - Diagnostic tool in Next.js for diagnosing faulty gamepad buttons and sticks.
 
-Explore more on [GitHub](https://github.com/Vectari)! Let's connect and collaborate! 🚀
+Let's connect and collaborate! 🚀
