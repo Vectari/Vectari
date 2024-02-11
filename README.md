@@ -10,7 +10,7 @@
 - **Tools:** Git, GitHub, REST API
 - **Other Skills:** HTML5, Linux, jotai, Storybook
 
-## 📚 About Me
+## 🙋‍♂️ About Me
 
 - **Nature Lover:** Hammock, forest, and a good horror book.
 - **Music Enthusiast:** Drums, guitar, and loud scream music.
