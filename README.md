@@ -7,7 +7,7 @@
 - **Languages:** JavaScript, TypeScript
 - **Frameworks:** React.js, Next.js
 - **Styling:** CSS, styled-components
-- **Tools:** Git, GitHub, REST API
+- **Tools:** Git, GitHub, API
 - **Other Skills:** HTML5, Linux, jotai, Storybook
 
 ## 🙋‍♂️ About Me
@@ -28,10 +28,10 @@
 - **inBudget App (intive Patronage 2023):**
   - React/Next.js application for account and budget management.
   
-- **Freelancer Project - Website Administration:**
+- **Freelancer Project:**
   - Created a React website for Matchmaking Office “Serduszka Dwa“, a service company in Poland.
 
-- **Gamepad Tester (Personal Project):**
+- **Gamepad Tester:**
   - Diagnostic tool in Next.js for diagnosing faulty gamepad buttons and sticks.
 
 Let's connect and collaborate! 🚀
