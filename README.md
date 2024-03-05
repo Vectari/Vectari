@@ -34,6 +34,6 @@
 - **Gamepad Tester:**
   - Diagnostic tool in Next.js for diagnosing faulty gamepad buttons and sticks.
 
-Let's connect and collaborate! 🚀
+<h1 align="center"> Let's connect and collaborate! 🚀 </h1>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vectari&" alt="vectari" /></p>
