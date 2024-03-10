@@ -36,4 +36,4 @@
 
 <h1 align="center"> Let's connect and collaborate! 🚀 </h1>
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vectari&theme=tokyonight" alt="mystreak"/></p>
