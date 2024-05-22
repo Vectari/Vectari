@@ -1,6 +1,6 @@
 # Hello there! 🖖
 
-🚀 **Passionate Frontend Developer** with a focus on React and an eagerness to explore new technologies. I've already had opportunity to <ins>create website for real company</ins> and be involved in an <ins>internship "intive Patronage 2023" project.</ins>
+🚀 **React Developer** with a focus on React and an eagerness to explore new technologies. I've already had opportunity to <ins>create website for real company</ins> and be involved in an <ins>internship "intive Patronage 2023" project.</ins>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
