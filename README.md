@@ -43,5 +43,7 @@
   <li>Playwright</li>
   <li>Material-UI</li>
 </ul>
-
-
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vectari&theme=dark&border_radius=50&date_format=j%20M%5B%20Y%5D&card_width=482)](https://git.io/streak-stats)
+</div>
